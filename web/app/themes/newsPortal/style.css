@@ -1,0 +1,40 @@
+body {
+	color: #000;
+	margin: 0;
+}
+header {
+	padding: 20px 0;
+}
+h3 {
+	text-align: center;
+}
+#true_loadmore {
+	padding: 15px; 
+	text-align: center; 
+}
+.image {
+	width: 170px;
+	height: 120px;
+}
+.min {
+	width: 180px;
+	height: 288px;
+	border: 1px solid black;
+	padding-left: 4px;
+}
+.search-form {
+    text-align: center;
+    padding: 15px;
+}
+.col-md-4 {
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+.menu-news-container{
+	border: 1px solid black;
+	padding-top: 10px;
+	padding-bottom: 2px;
+}
+#menu-news {
+	text-align: right;
+}
